@@ -1,18 +1,22 @@
-## Olá, meu nome é <strong>Matheus!</strong>
+# Olá, meu nome é **Matheus!**
 
-Em processo de graduação em Ciências da Computação, estudos direcionados ao Desenvolvimento Front End.
+Em processo de graduação em Ciências da Computação, com foco em Desenvolvimento Front End.
 
 <p align="left">
-     Caso queira entrar em contato comigo segue os links:
+  Caso queira entrar em contato comigo, seguem os links:
 </p>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/matheus-a-641318135/" alt="Linkedin">
-<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-mendes-0176301a3/" /></a>
+  <a href="https://www.linkedin.com/in/matheus-a-641318135/" alt="Linkedin" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
 
-  <a href="https://www.instagram.com/math_alber/" alt="Instagram">
-<img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/gustavom_sousa/"/></a>
+  <a href="https://www.instagram.com/math_alber/" alt="Instagram" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
 </p>
+
+---
 
 ## 🚀 Minhas Skills
 
@@ -21,9 +25,6 @@ Em processo de graduação em Ciências da Computação, estudos direcionados ao
 <code><img height="32" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></code>
 <code><img height="32" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></code>
 
-## ⭐ Informações sobre minha conta GitHub
+---
 
-[![mathalber](https://github-readme-stats.vercel.app/api?username=mathalber&theme=radical)](https://github.com/mathalber/)
-
-[![mathalber](https://github-readme-stats.vercel.app/api/top-langs/?username=mathalber&hide=html&layout=compact&theme=radical)](https://github.com/mathalber/)
-
+## ⭐ Informações sobre mi
