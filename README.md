@@ -27,4 +27,22 @@ Em processo de graduação em Ciências da Computação, com foco em Desenvolvim
 
 ---
 
-## ⭐ Informações sobre mi
+## ⭐ Informações sobre minha conta GitHub
+
+[![mathalber](https://github-readme-stats.vercel.app/api?username=mathalber&theme=radical)](https://github.com/mathalber/)
+
+[![mathalber](https://github-readme-stats.vercel.app/api/top-langs/?username=mathalber&hide=html&layout=compact&theme=radical)](https://github.com/mathalber/)
+
+---
+
+## 📅 Histórico de Commits
+
+### 2025
+- 🟢 **08/2025**: Implementação do sistema de autenticação OAuth2.
+- 🟢 **05/2025**: Atualização das dependências do projeto para versões estáveis.
+- 🟢 **01/2025**: Refatoração do código base para melhorar performance.
+
+### 2024
+- 🔵 **12/2024**: Adição de testes automatizados com Jest.
+- 🔵 **09/2024**: Melhoria no layout responsivo com Vue.js.
+- 🔵 **04/2024**: Integração da API REST com o front-end.
